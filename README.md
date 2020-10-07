@@ -14,11 +14,8 @@ Here a arduino bluetooth connection is used to transfer data from android to ard
 
 Image of project:
 
-![Image of World Mapt](https://github.com/TamimEhsan/CodeforceAPI/blob/master/images/CFAPI1.PNG)
+![Image of Arduino](https://github.com/TamimEhsan/Starduino/blob/main/Assets/image1.jpg)
 
-In action:
-
-![Image of World Mapt](https://github.com/TamimEhsan/CodeforceAPI/blob/master/images/CFAPI1.PNG)
 
 ### Achievements
 
